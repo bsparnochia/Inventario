@@ -1,0 +1,7 @@
+escudo
+coraza
+capa
+casco
+espada
+ballesta
+corona
